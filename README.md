@@ -1,4 +1,4 @@
-# Mouse Be Gone!
+    # Mouse Be Gone!
 
 ## Levels
 
@@ -171,4 +171,4 @@ To see how good you are without the mouse!
 
 1. In your project folder initialize a new ```git``` repo
 1. Create a new repository on GitHub (you may need to use your mouse/trackpad)
-1. Link the new ```git``` repo on your computer to your new GitHub repository
+1. Link the new ```git``` repo on your computer to your new 

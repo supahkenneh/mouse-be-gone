@@ -1,3 +1,13 @@
 body {
   background-color: cornflowerblue;
 }
+
+#id {
+  background-color: aliceblue;
+  padding: 5px;
+}
+
+div {
+  background-color: aqua;
+  border: solid 2px;
+}
